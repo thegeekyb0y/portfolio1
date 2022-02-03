@@ -45,7 +45,9 @@ img{
 }
 #tribute-info {
   color:white;
-  margin-left:20px;
+  margin-left:50px;
+  margin-right:20px;
+  opacity:80%
 }
 a {
   text-decoration:none;
@@ -53,5 +55,5 @@ a {
 }
 #tribute-text {
   color:white;
-  margin-left:20px;
+  margin-left:50px;
 }
