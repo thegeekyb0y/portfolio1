@@ -36,10 +36,24 @@ img{
   max-width:70%
 
 }
+#tribute-info {
+  color:white;
+  margin-left:50px;
+  margin-right:20px;
+  opacity:80%
+}
+a {
+  text-decoration:none;
+  color:cyan;
+}
+#tribute-text {
+  color:white;
+  margin-left:50px;
+}
+
 
 #tribute-info {
    color:white;
   font-family:manrope;
-  margin-left:15px;
-  
+  margin-left:15px; 
 }
