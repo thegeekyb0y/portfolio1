@@ -5,3 +5,4 @@ I made this site to test my skills at Freecodecamp's Responsive Web Design Certi
 
 Codepen Link : https://codepen.io/namedaditya/full/ZEaWgRB
 
+You can change the code or use it as a template with your more good design skills
